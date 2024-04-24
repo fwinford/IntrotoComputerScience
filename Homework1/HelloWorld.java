@@ -1,7 +1,7 @@
 /*
 Java Programming using the command line
 
-Faith Winford
+	Faith Winford
 */
 
 public class HelloWorld
